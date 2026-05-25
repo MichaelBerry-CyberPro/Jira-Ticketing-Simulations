@@ -16,3 +16,4 @@ The project was to showcase different actions or events within Active Directory 
 3) Employee Logon Access
 4) Disable User 
 
+![image alt](https://github.com/MichaelBerry-CyberPro/Active-Directory-Actions-/blob/main/Password%20Reset.png)
