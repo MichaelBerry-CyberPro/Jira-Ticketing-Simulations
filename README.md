@@ -31,3 +31,5 @@ Janice created a ticket in Jira. She would like a user create for Mark Jones.
 ![image alt](https://github.com/MichaelBerry-CyberPro/Jira-Ticketing-Simulations/blob/main/Onboarding%20ticket.png)
 
 ![image alt](https://github.com/MichaelBerry-CyberPro/Jira-Ticketing-Simulations/blob/main/Mark%20Jones%20User%20Creation.png)
+
+![image alt](https://github.com/MichaelBerry-CyberPro/Jira-Ticketing-Simulations/blob/main/Onboarding%20resolution.png)
