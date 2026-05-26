@@ -2,7 +2,7 @@
 Jira Ticketing Simulation
 
 # Objectives
-The project was to showcase different actions or events within Active Directory and Jira that would typically take place on a day to day basis. This project is to show mastery of these tasks.
+The project was to showcase different actions or events within Jira that would typically take place on a day to day basis. This project is to show mastery of these tasks in Active Directory.
 
 # Tools
 
@@ -14,11 +14,11 @@ The project was to showcase different actions or events within Active Directory 
 
 1) User creation
 2) Password Reset
-3) Employee Logon Access
-4) Disable User 
+ 
 
 
 # Password Reset 
+Jalen has been lost access do to forgetting his password.
 ![image alt](https://github.com/MichaelBerry-CyberPro/Jira-Ticketing-Simulations/blob/main/Password%20resolution.png)
 
 ![image alt](https://github.com/MichaelBerry-CyberPro/Jira-Ticketing-Simulations/blob/main/Jalen%20Jacks%20password%20reset.png)
