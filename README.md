@@ -12,9 +12,11 @@ The project was to showcase different actions or events within Jira that would t
 
 # Skills Learned 
 
-1) User creation
-2) Password Reset
- 
+1) Active Directory
+2) Jira Service Management 
+3) Ticket Documentation
+4) End-user support
+5) Service desk operations
 
 
 # Password Reset 
