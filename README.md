@@ -8,6 +8,7 @@ The project was to showcase different actions or events within Active Directory 
 
 1) Virtualbox
 2) Jira
+3) Active Directory
 
 # Skills Learned 
 
@@ -16,4 +17,11 @@ The project was to showcase different actions or events within Active Directory 
 3) Employee Logon Access
 4) Disable User 
 
+
+# Password Reset 
 ![image alt](https://github.com/MichaelBerry-CyberPro/Jira-Ticketing-Simulations/blob/main/Jalen%20Jacks%20password%20reset.png)
+
+
+![image alt](https://github.com/MichaelBerry-CyberPro/Jira-Ticketing-Simulations/blob/main/Password%20resolution.png)
+
+# Onboarding / User Creation
