@@ -25,3 +25,6 @@ The project was to showcase different actions or events within Active Directory 
 ![image alt](https://github.com/MichaelBerry-CyberPro/Jira-Ticketing-Simulations/blob/main/Password%20resolution.png)
 
 # Onboarding / User Creation
+Janice created a ticket in Jira. She would like a user create for Mark Jones.
+
+![image alt](https://github.com/MichaelBerry-CyberPro/Jira-Ticketing-Simulations/blob/main/Mark%20Jones%20User%20Creation.png)
